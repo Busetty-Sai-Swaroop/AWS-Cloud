@@ -4,9 +4,9 @@ This repository contains practical AWS cloud work showcasing hands-on experience
 
 ## 📁 Repository Structure
 ```
-aws-cloud-projects/
+aws-cloud/
 │
-├── lambda-experiments/
+├── lambda/
 │   ├── README.md
 │   ├── hello_lambda.py
 │   ├── greet_lambda.py
