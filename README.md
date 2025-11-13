@@ -26,6 +26,10 @@ Includes Hello World, input-based greeting, math operations, and S3-triggered La
 
 ### **2. Static Website Hosting on Amazon S3**
 Steps to host a static website, manage ACL permissions, and enable S3 website hosting.
+Live Website Endpoint
+static website will be publicly available at:
+
+### 🔗 http://mythragsai.s3-website.ap-south-1.amazonaws.com
 
 ## 🛠️ Technologies Used
 AWS Lambda, Amazon S3, IAM, CloudWatch, Python, HTML/CSS
