@@ -71,7 +71,7 @@ Then:
 ## 📁 Files Included
 ```
 index.html
-profile.jpg
+Readme.md
 Steps_to_host_static_website.docx
 ```
 
